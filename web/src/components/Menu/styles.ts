@@ -26,9 +26,7 @@ export const Container = styled(animated.nav)`
     border-bottom: 1px solid #f0f5f5;
 
     img {
-      flex: 1;
-      margin-left: 25px;
-      width: 40px;
+      width: 70%;
     }
   }
 
