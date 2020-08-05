@@ -34,7 +34,7 @@ A aplicação tem como intuito de melhorar os relatórios gerados na ferramenta 
 Faça o download do projeto em .zip ou utilize git caso esteja instalado na máquina:
 
 ```
-git clone https://github.com/agustinhopneto/telzir.git
+git clone https://github.com/agustinhopneto/biigtools.git
 ```
 
 Abra a pasta `server`, copie o arquivo `.env.example` e renomeie a cópia para `.env`, abra o arquivo copiado e edite as informações de ambiente.
